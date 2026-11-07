@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/cisco.iosxr/commit/bf4c479053376d57ff7cba187429108c049c765b",
       "git:hexsha": "bf4c479053376d57ff7cba187429108c049c765b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v13.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v13.0.0",
+      "repolex:parsedAt": "2026-11-07T16:06:15.503899+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/cisco.iosxr/commit/1f31d64e4cc05787949192eb43ff131ea250a477",
